@@ -11,6 +11,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YvonneWu1999/cli-game-swf.git"
+  },
   "dependencies": {
     "chalk": "^5.0.0",
     "chalk-animation": "^1.6.0",
